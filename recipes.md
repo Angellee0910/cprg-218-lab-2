@@ -17,7 +17,7 @@ Ingredients:
 - 1 can (14 oz) artichoke hearts, drained and chopped
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
 - 1 cup mayonnaise
-- 1 cup grated Parmesan cheese
+- 2 cup grated Parmesan cheese
 - 1/2 cup shredded mozzarella cheese
 - 2 cloves garlic, minced
 
@@ -54,7 +54,7 @@ Ingredients:
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
-- 1/4 cup grated Parmesan cheese
+- 2/3 cup grated Parmesan cheese
 - 1 egg
 - 2 cloves garlic, minced
 - Salt and pepper to taste
@@ -78,6 +78,7 @@ Ingredients:
 - 4 slices Swiss cheese
 - 4 hamburger buns
 - Lettuce
+- mushroom
 - Tomato
 - Mayonnaise
 
